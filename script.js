@@ -517,10 +517,43 @@ document.addEventListener('DOMContentLoaded', function() {
       id: 5,
       title: "ME211 Quiz-1",
       date: "2025-08-29",
-      type: "tentative",
-      status: "tentative",
-      description: "possibly ThermoDynamics quiz-1"
+      type: "confirmed",
+      status: "confirmed",
+      description: "ThermoDynamics quiz-1 will be taken"
+    },
+    {
+      id: 6,
+      title: "ME214 Quiz-1",
+      date: "2025-08-24",
+      type: "confirmed",
+      status: "confirmed",
+      description: "Fluid Mechanics Quiz-1 will be taken."
+    },
+    {
+      id: 7,
+      title: "Techniche D1",
+      date: "2025-08-29",
+      type: "event",
+      status: "confirmed",
+      description: "Techniche Fest Event Day-1"
+    },
+    {
+      id: 8,
+      title: "Techniche D2",
+      date: "2025-08-30",
+      type: "event",
+      status: "confirmed",
+      description: "Techniche Fest Event Day-2"
+    },
+    {
+      id: 8,
+      title: "Techniche D3",
+      date: "2025-08-31",
+      type: "event",
+      status: "confirmed",
+      description: "Techniche Fest Event Day-3"
     }
+
   ];
 
   // DOM Elements
