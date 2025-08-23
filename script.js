@@ -516,7 +516,7 @@ document.addEventListener('DOMContentLoaded', function() {
     {
       id: 5,
       title: "ME211 Quiz-1",
-      date: "2025-08-29",
+      date: "2025-09-06",
       type: "confirmed",
       status: "confirmed",
       description: "ThermoDynamics quiz-1 will be taken"
@@ -720,4 +720,5 @@ document.addEventListener('DOMContentLoaded', function() {
     const options = { year: 'numeric', month: 'long', day: 'numeric' };
     return date.toLocaleDateString('en-US', options);
   }
+
 });
